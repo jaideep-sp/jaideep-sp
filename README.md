@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jaideep-sp
-- 👀 I’m interested in cybersecurity,competitive programming and
-- 🌱 I’m currently learning  backend dev.
-- 💞️ I’m looking to collaborate on backend projects.
-- 📫 How to reach me.. email-singhjai0555@gmail.com
+- 👋 Hi, I’m jaideep singh
+- 👀 I’m interested in fullstack developments involving in creating and solving repetative, challenging issues.
+- 🌱 I’m currently learning  Nextjs along with Figma.
+- 💞️ I’m looking to collaborate on Fullstack projects.
+- 📫 How to reach me.. email-singhjai0777@gmail.com
 
 <!---
 jaideep-sp/jaideep-sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
